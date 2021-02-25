@@ -1,8 +1,11 @@
 # notebook for LAD experiments
 ## quick start
-pull the data from s3 bucket: `s3://aiops-demo-logs/lad-data`, fasttext model in the `fasttext_model` folder and k3s data in `input`
+git clone this repo.
+get the data from s3 bucket: `s3://aiops-demo-logs/lad-data`.
+put fasttext model in `fasttext_model` folder and input k3s data in `input`. 
 
-``` # install the libs
+``` 
+# install the libs
 pip install -r requirements.txt
 ```
 
