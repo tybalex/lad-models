@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+input
+fasttext_model
+*.pyc
+__pycache__
+.DS_Store
